@@ -1,0 +1,99 @@
+
+
+body {
+background-color: #95909d;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%236d6a72' fill-opacity='0.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
+}
+.showcase {
+margin: 20px;
+width: 97%;
+height: 97%;
+}
+.articulo1 {
+font-family: sans-serif;
+margin: 20px;
+font-size: 26px;
+text-align: left;
+}
+img {
+margin: 20px;
+width: 300px;
+height: 200px;
+}
+
+h1 {
+font-family: sans-serif;
+margin: 10px;
+font-size: 36px;
+text-align: left;
+}
+.articulo2 {
+    font-family: sans-serif;
+    margin: 20px;
+    font-size: 26px;
+    text-align: left;
+    }
+    .articulo3 {
+        font-family: sans-serif;
+        margin: 20px;
+        font-size: 26px;
+        text-align: left;
+        }
+        .articulo4 {
+            font-family: sans-serif;
+            margin: 20px;
+            font-size: 26px;
+            text-align: left;
+            }
+        .articulo5 {
+        font-family: sans-serif;
+        margin: 20px;
+        font-size: 26px;
+        text-align: left;
+            }
+        .articulo6 {
+        font-family: sans-serif;
+        margin: 20px;
+        font-size: 26px;
+        text-align: left;
+                  }   
+          .articulo7 {
+            font-family: sans-serif;
+            margin: 20px;
+             font-size: 26px;
+             text-align: left;
+          }
+          .articulo8 {
+            font-family: sans-serif;
+            margin: 20px;
+             font-size: 26px;
+             text-align: left;
+          }
+          .articulo9 {
+            font-family: sans-serif;
+            margin: 20px;
+             font-size: 26px;
+             text-align: left;
+                }  
+                .articulo10 {
+                font-family: sans-serif;
+                margin: 20px;
+                 font-size: 26px;
+                 text-align: left;
+                 }      
+                 .articulo11 {
+                    font-family: sans-serif;
+                    margin: 20px;
+                     font-size: 26px;
+                     text-align: left;
+                     }   
+        footer {
+background-color: black;
+padding: 20px;
+ }
+.texto {
+    font-family: sans-serif;
+    font-size: 26px;
+    color: white;
+    text-align: center;
+}
